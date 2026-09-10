@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Riello RS Monitoring",
+        "description": "Inserisci le credenziali del portale Riello RS Monitoring.",
+        "data": {
+          "username": "Username",
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Username o password non validi.",
+      "cannot_connect": "Impossibile connettersi al portale Riello.",
+      "unknown": "Errore sconosciuto."
+    },
+    "abort": {
+      "already_configured": "L'integrazione è già configurata."
+    }
+  }
+}
