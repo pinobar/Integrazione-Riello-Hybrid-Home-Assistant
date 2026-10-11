@@ -7,7 +7,7 @@
 - Removed the incorrect `total_increasing` declaration for values that can decrease when reported by the Riello portal.
 
 ### Verified
-- 39 entities operating correctly.
+- 41 entities operating correctly.
 - Values verified against the Riello web portal.
 - Login and updates stable.
 - Grafana import stable.
