@@ -10,7 +10,7 @@ This is the tested baseline of the integration supplied for this repository.
 
 ### Verified with
 
-- Home Assistant Core 2026.8.3
+- Home Assistant Core 2026.10.1
 - 39 working Riello entities/sensors in the tested installation
 - Riello web values checked against Home Assistant
 - Grafana data import verified
