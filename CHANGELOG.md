@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.1.3] - 2026-08
+## [1.1.3] - 2026-10
 
 ### Fixed
 - Corrected state-class handling for annual, monthly and total self-consumed energy entities.
