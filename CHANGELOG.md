@@ -12,7 +12,7 @@
 - Login and updates stable.
 - Grafana import stable.
 - Owner and revision diagnostic entities verified.
-- Tested with Home Assistant Core 2026.8.3.
+- Tested with Home Assistant Core 2026.10.1.
 
 ## [1.1.2] - 2026-08
 
